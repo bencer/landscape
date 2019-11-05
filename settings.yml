@@ -94,6 +94,7 @@ membership:
     name: CNCF
     label: End User Supporter
     funding: End User Supporter
+    enduser: true
   linux_foundation:
     name: LF
     label: Project
